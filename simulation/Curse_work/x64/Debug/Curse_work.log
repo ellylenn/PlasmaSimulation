@@ -1,0 +1,45 @@
+﻿  Curse_work.cpp
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(186,17): warning C4305: =: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(216,23): warning C4305: =: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(230,80): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(231,63): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(701,83): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(721,92): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\algorithm(3682,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(189,6): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::generate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,set_electron_cross_sections_ar::<lambda_4>>(_FwdIt,_FwdIt,_Fn)"
+          with
+          [
+              _Ty=float,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Fn=set_electron_cross_sections_ar::<lambda_4>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\algorithm(3074,24): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\Curse_work\Curse_work.cpp(191,61): message : выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt std::transform<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Array_iterator<_Ty,1000000>,set_electron_cross_sections_ar::<lambda_1>>(const _InIt,const _InIt,_OutIt,_Fn)"
+          with
+          [
+              _OutIt=std::_Array_iterator<float,1000000>,
+              _Ty=float,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Fn=set_electron_cross_sections_ar::<lambda_1>
+          ]
+  Curse_work.vcxproj -> C:\Users\Евгений\OneDrive\Рабочий стол\c++\Curse_work\x64\Debug\Curse_work.exe
